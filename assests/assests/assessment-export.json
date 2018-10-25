@@ -1,0 +1,106 @@
+{
+  "bmr" : 1682,
+  "caloricGoal" : 1819,
+  "completedOn" : "2018-05-16T16:30:06.243Z",
+  "creationDate" : "2018-05-16T14:14:58.272Z",
+  "dailyActivityLevel" : "sedentary",
+  "exerciseActivityLevel" : "casual",
+  "goal" : "fatLoss",
+  "macros" : {
+    "restDay" : {
+      "carbs" : 182,
+      "fat" : 51,
+      "protein" : 159
+    },
+    "workoutDay" : {
+      "carbs" : 182,
+      "fat" : 51,
+      "protein" : 159
+    }
+  },
+  "mealPlans" : {
+    "-LCdn-5rhZSu8K5LzceI" : {
+      "creationDate" : "2018-05-16T15:37:45.782Z",
+      "meals" : [ {
+        "foods" : [ {
+          "food" : "-L5yeODLF6fbNIf6RK9f",
+          "quantity" : 3,
+          "type" : "food"
+        }, {
+          "food" : "-L5yeOHfsxPpyjNWX2Z_",
+          "quantity" : 50,
+          "type" : "food"
+        } ],
+        "title" : "Meal 1"
+      }, {
+        "foods" : [ {
+          "food" : "-L5yeODyQtbksxHge-5z",
+          "quantity" : 125,
+          "type" : "food"
+        }, {
+          "food" : "-L5yeOGJQXE_2EALe6cl",
+          "quantity" : 100,
+          "type" : "food"
+        }, {
+          "food" : "-L5yeOMoUHwASn00bhs2",
+          "quantity" : 180,
+          "type" : "food"
+        } ],
+        "title" : "Meal 2"
+      }, {
+        "foods" : [ {
+          "food" : "-L5yeOEX1nSV6TQX-r0P",
+          "quantity" : 125,
+          "type" : "food"
+        }, {
+          "food" : "-L5yeOGJQXE_2EALe6cl",
+          "quantity" : 100,
+          "type" : "food"
+        }, {
+          "food" : "-L5yeONasxynZFeRZAg2",
+          "quantity" : 180,
+          "type" : "food"
+        } ],
+        "title" : "Meal 3"
+      }, {
+        "foods" : [ {
+          "food" : "-L5yeODC_Z8Bn1-kLR7F",
+          "quantity" : 0.5,
+          "type" : "food"
+        }, {
+          "food" : "-L5yeOHv1ATbGNW9-jZd",
+          "quantity" : 1,
+          "type" : "food"
+        }, {
+          "food" : "-L5yeOK2C1dcu4BgB7N_",
+          "quantity" : 20,
+          "type" : "food"
+        } ],
+        "title" : "Pre Workout"
+      }, {
+        "foods" : [ {
+          "food" : "-L5yeODPFZSOioCIeD5d",
+          "quantity" : 1,
+          "type" : "food"
+        }, {
+          "food" : "-L5yeON4QpN-cHd3U01L",
+          "quantity" : 3,
+          "type" : "food"
+        } ],
+        "title" : "Post Workout"
+      } ],
+      "start" : "examplePlan",
+      "title" : "REPAS ANNE ROSE",
+      "type" : "workoutDay"
+    }
+  },
+  "status" : "complete",
+  "tdee" : {
+    "restDay" : 2019,
+    "workoutDay" : 2019
+  },
+  "weight" : 205,
+  "weightUnit" : "lbs",
+  "workoutFrequency" : 0,
+  "workoutLength" : 0
+}

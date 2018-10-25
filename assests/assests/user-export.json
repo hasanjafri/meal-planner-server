@@ -1,0 +1,10 @@
+{
+  "birthday" : "1991-10-31",
+  "email" : "bob@bob.com",
+  "firstName" : "Bob",
+  "gender" : "male",
+  "bodyType": "mesomorph",
+  "height" : 72,
+  "heightUnit": "in",
+  "phone" : "123-123-1234"
+}

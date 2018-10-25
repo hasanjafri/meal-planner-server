@@ -1,0 +1,82 @@
+{
+  "creationDate" : "2018-10-05T02:04:17.891Z",
+  "plans" : [ {
+    "meals" : [ {
+      "foods" : [ {
+        "food" : "-L5yeODC_Z8Bn1-kLR7F",
+        "quantity" : 0.75,
+        "type" : "food"
+      }, {
+        "food" : "-L5yeODXmTIR7zIIeQRf",
+        "quantity" : 30,
+        "type" : "food"
+      }, {
+        "food" : "-L5yeOGJQXE_2EALe6cl",
+        "quantity" : 100,
+        "type" : "food"
+      }, {
+        "food" : "-L5yeOLsO1Hh7ZQc-HxE",
+        "quantity" : 50,
+        "type" : "food"
+      } ],
+      "title" : "Meal 1"
+    }, {
+      "foods" : [ {
+        "food" : "-L5yeODyQtbksxHge-5z",
+        "quantity" : 100,
+        "type" : "food"
+      }, {
+        "food" : "-L5yeOGJQXE_2EALe6cl",
+        "quantity" : 100,
+        "type" : "food"
+      } ],
+      "title" : "Meal 2"
+    }, {
+      "foods" : [ {
+        "food" : "-L5yeOE_3gGBQo2mcqLb",
+        "quantity" : 100,
+        "type" : "food"
+      }, {
+        "food" : "-L5yeOGJQXE_2EALe6cl",
+        "quantity" : 100,
+        "type" : "food"
+      }, {
+        "food" : "-L5yeOMoUHwASn00bhs2",
+        "quantity" : 100,
+        "type" : "food"
+      } ],
+      "title" : "Meal 3"
+    }, {
+      "foods" : [ {
+        "food" : "-L5yeOJPXlT_RTa2H0Ig",
+        "quantity" : 1,
+        "type" : "food"
+      }, {
+        "food" : "-L5yeOK2C1dcu4BgB7N_",
+        "quantity" : 30,
+        "type" : "food"
+      } ],
+      "title" : "Snack 1"
+    }, {
+      "foods" : [ {
+        "food" : "-L5yeOQR_pun5hrWY42A",
+        "quantity" : 1,
+        "type" : "food"
+      } ],
+      "title" : "Snack 2"
+    }, {
+      "foods" : [ {
+        "food" : "-L5yeOPzf5vbpQqrAmb7",
+        "quantity" : 1,
+        "type" : "food"
+      }, {
+        "food" : "-L5yeOMHGXNtvxv-9Xiq",
+        "quantity" : 40,
+        "type" : "food"
+      } ],
+      "title" : "post-workout Meal"
+    } ],
+    "title" : "Meal plan 7"
+  } ],
+  "title" : "Body recomp"
+}

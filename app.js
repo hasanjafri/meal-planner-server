@@ -7,7 +7,7 @@ import { jsonErr } from './utils/json';
 
 mongoose.Promise = global.Promise;
 
-const mongoosePromise = mongoose.connect('mongodb://localhost:27017/bundleIdentifierDB');
+const mongoosePromise = mongoose.connect('mongodb://localhost:27017/mealPlannerDb');
 mongoosePromise.then(dbConnection => {
   if (dbConnection) {
     console.log('Connected to mongodb...');
